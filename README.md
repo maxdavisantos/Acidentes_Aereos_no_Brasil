@@ -6,8 +6,8 @@
    
 # Integrantes
 
-Gabriel Gustavo Tinoco 
-Giovana S. Duarte 
+Gabriel Gustavo Tinoco  
+Giovana S. Duarte  
 Lucas G.Frigo  
 Max David Santos  
 Priscilla Santos 
