@@ -18,7 +18,7 @@ Priscilla Santos
  
  # Conteúdo:
  
- https://colab.research.google.com/drive/1LqjkCARWkB_QeHhgZBfuM7y1KCj7u-b0?usp=sharing 
+  
  
   
  CENIPA. CENIPA - Ocorrências Aeronáuticas na Aviação Civil Brasileira . Disponível em: https://dados.gov.br/dataset/ocorrencias-aeronauticas-da-aviacao-civil-brasileira. Acesso em: 9 mai. 2022.
